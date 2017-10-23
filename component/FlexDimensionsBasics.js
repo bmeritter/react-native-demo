@@ -7,7 +7,7 @@ export default class FlexDimensionsBasics extends Component {
             <View style={{flex: 1}}>
                 <View style={{flex: 1, backgroundColor: 'powderblue'}}></View>
                 <View style={{flex: 2, backgroundColor: 'skyblue'}}></View>
-                <View style={{flex: 3, backgroundColor: 'steeblue'}}></View>
+                <View style={{flex: 3, backgroundColor: 'steelblue'}}></View>
             </View>
         );
     }
