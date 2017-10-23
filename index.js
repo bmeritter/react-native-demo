@@ -1,4 +1,4 @@
 import {AppRegistry} from 'react-native';
-import FlexDimensionsBasics from "./component/FlexDimensionsBasics";
+import PizzaTranslator from "./component/PizzaTranslator";
 
-AppRegistry.registerComponent('hello', () => FlexDimensionsBasics);
+AppRegistry.registerComponent('hello', () => PizzaTranslator);
