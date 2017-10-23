@@ -42,7 +42,7 @@ const styles = StyleSheet.create({
         marginBottom: 5,
     },
     red: {
-      color: 'red',
+        color: 'red',
     },
     bigblue: {
         color: 'blue',
