@@ -10,15 +10,17 @@ import ViewText from "./component/ViewText";
 import FlexDimensionsBasics from "./component/FlexDimensionsBasics";
 import PizzaTranslator from "./component/PizzaTranslator";
 import ButtonBasics from "./component/ButtonBasics";
+import Touchables from "./component/Touchables";
 
 export default class App extends Component {
     render() {
         return (
             <View>
-                <ViewText/>
-                <FlexDimensionsBasics/>
-                <PizzaTranslator/>
-                <ButtonBasics/>
+                {/*<ViewText/>*/}
+                {/*<FlexDimensionsBasics/>*/}
+                {/*<PizzaTranslator/>*/}
+                {/*<ButtonBasics/>*/}
+                <Touchables/>
             </View>
         );
     }
